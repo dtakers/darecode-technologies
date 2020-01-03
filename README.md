@@ -9,7 +9,7 @@ This is [dareCode's](https://www.darecode.com) list of favorite technologies & d
 
 ## Technologies
 * **Cloud:** AWS, Azure, Google cloud
-* **OS:** Linux, Windows, Android, iOS
+* **OS:** Linux ( RedHat, Ubuntu ), Windows, Android, iOS
 * **Process isolation:** Docker
 * **Container Orchestration:** Kubernetes, OpenShift
 * **SQL databases:** Oracle, MSSQL, MySQL, MariaDB, PostgreSQL
@@ -18,6 +18,10 @@ This is [dareCode's](https://www.darecode.com) list of favorite technologies & d
 * **Message queues:** Kafka, RabbitMQ, SQS
 * **Monitoring:** Prometheus, Nagios, Icinga, Grafana, Zabbix
 * **Continuous integration / deployment:** Jenkins, GitLab, Azure DevOps, Teamcity, Concourse
+* **Log processing:** Logstash, Kibana, ElasticSearch
+* **Fast Data:** Apache Storm
+* **CVS:** Git
+* **Knowledge management and sharing:** Sharepoint, Confluence
 
 ## Languages
 * Go
