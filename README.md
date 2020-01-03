@@ -1,5 +1,5 @@
 # darecode-technologies-and-disciplines
-This is the [dareCode](https://www.darecode.com) list of favorite technologies & disciplines. We either have experience building things with the following elements or we simply love them and try to use them when possible.
+This is [dareCode's](https://www.darecode.com) list of favorite technologies & disciplines. We either have experience building things with the following elements or we simply love them and try to use them when possible.
 
 ## Disciplines / methodologies
 * **Agile frameworks:** SCRUM, KANBAN
