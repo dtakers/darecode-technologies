@@ -11,7 +11,7 @@ This is [dareCode's](https://www.darecode.com) list of favorite technologies & d
 * **OS:** Linux ( RedHat, Ubuntu ), Windows, Android, iOS
 * **Process isolation:** Docker
 * **Container Orchestration:** Kubernetes, OpenShift
-* **Platform As Code / Configuration As Code / Provisioning:** Terraform, Ansible
+* **Infrastructure / Configuration As Code:** Terraform, Ansible
 * **SQL databases:** Oracle, MSSQL, MySQL, MariaDB, PostgreSQL
 * **NoSQL databases:** MongoDB, Cassandra, Elastic
 * **TimeSeries databases:** InfluxDB, Graphite
