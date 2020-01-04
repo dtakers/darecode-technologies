@@ -25,10 +25,9 @@ This is [dareCode's](https://www.darecode.com) list of favorite technologies & d
 * **Binary repositories:** Nexus, Artifactory
 * **Knowledge management and sharing:** Sharepoint, Confluence
 
-## Languages
+## Languages and frameworks
 * Go
 * .Net
-* Java
-* PHP
-* AngularJS
-* React
+* Java (Spring)
+* PHP (Symfony)
+* JavaScript / TypeScript ( Angular, React)
