@@ -12,6 +12,7 @@ This is the list of [dareCode's](https://www.darecode.com) favorite technologies
 * **Process isolation:** Docker
 * **Container Orchestration:** Kubernetes, OpenShift
 * **Infrastructure / Configuration As Code:** Terraform, Ansible
+* **API Gateway:** Kong, Tyk, KrakenD
 * **SQL databases:** Oracle, MSSQL, MySQL, MariaDB, PostgreSQL
 * **NoSQL databases:** MongoDB, Cassandra, Elastic
 * **TimeSeries databases:** InfluxDB, Graphite
@@ -23,7 +24,9 @@ This is the list of [dareCode's](https://www.darecode.com) favorite technologies
 * **Fast Data:** Apache Storm
 * **CVS:** Git
 * **Binary repositories:** Nexus, Artifactory
+* **Service mesh:** Istio, Linkerd
 * **Knowledge management and sharing:** Sharepoint, Confluence
+* **Edge web servers:** Nginx, Apache,  
 
 ## Languages and frameworks
 * Go
