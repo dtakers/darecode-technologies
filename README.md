@@ -1,4 +1,4 @@
-# darecode-technologies-and-disciplines
+# dareCode Tech & Culture book
 This is the list of [dareCode's](https://www.darecode.com) favorite technologies & disciplines. We either have experience or simply love and try to use them every time it is possible.
 
 ## Disciplines / methodologies
