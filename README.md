@@ -11,11 +11,13 @@ This is [dareCode's](https://www.darecode.com) list of favorite technologies & d
 * **OS:** Linux ( RedHat, Ubuntu ), Windows, Android, iOS
 * **Process isolation:** Docker
 * **Container Orchestration:** Kubernetes, OpenShift
+* **Platform As Code / Configuration As Code / Provisioning:** Terraform, Ansible
 * **SQL databases:** Oracle, MSSQL, MySQL, MariaDB, PostgreSQL
 * **NoSQL databases:** MongoDB, Cassandra, Elastic
 * **TimeSeries databases:** InfluxDB, Graphite
 * **Message queues:** Kafka, RabbitMQ, SQS
-* **Monitoring:** Prometheus, Nagios, Icinga, Grafana, Zabbix
+* **Monitoring:** Prometheus, Nagios, Icinga, Grafana, Zabbix, SysDig
+* **APM:** Dynatrace, Newrelic, AppDynamics, Instana
 * **Continuous integration / deployment:** Jenkins, GitLab, Azure DevOps, Teamcity, Concourse
 * **Log processing:** Logstash, Kibana, ElasticSearch
 * **Fast Data:** Apache Storm
