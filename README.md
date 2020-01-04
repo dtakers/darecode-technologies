@@ -2,8 +2,7 @@
 This is [dareCode's](https://www.darecode.com) list of favorite technologies & disciplines. We either have experience building things with the following elements or we simply love them and try to use them when possible.
 
 ## Disciplines / methodologies
-* **Agile frameworks:** SCRUM, KANBAN
-* **Scaled agile:** Safe, Nexus
+* **Agile frameworks:** SCRUM (Scaled: SAFE, Nexus), KANBAN
 * **Organization models:** DevOps
 * **Best practices:** ITIL
 
@@ -21,6 +20,7 @@ This is [dareCode's](https://www.darecode.com) list of favorite technologies & d
 * **Log processing:** Logstash, Kibana, ElasticSearch
 * **Fast Data:** Apache Storm
 * **CVS:** Git
+* **Binary repositories:** Nexus, Artifactory
 * **Knowledge management and sharing:** Sharepoint, Confluence
 
 ## Languages
