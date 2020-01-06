@@ -22,6 +22,7 @@ This is the list of [dareCode's](https://www.darecode.com) favorite technologies
 * **Continuous integration / deployment:** Jenkins, GitLab, Azure DevOps, Teamcity, Concourse
 * **Log processing:** Logstash, Kibana, ElasticSearch
 * **Fast Data:** Apache Storm
+* **Cache:** Redis, Memcache, Ncache
 * **CVS:** Git
 * **Binary repositories:** Nexus, Artifactory
 * **Service mesh:** Istio, Linkerd
