@@ -5,7 +5,6 @@ This is the list of [dareCode's](https://www.darecode.com) favorite technologies
 * **Agile frameworks:** SCRUM (Scaled: SAFE, Nexus), KANBAN
 * **Organization models:** DevOps
 * **Best practices:** ITIL
-* **Project and Service Management Tools:** JIRA, Confluence, Azure VisualStudio
 
 ## Technologies
 * **Cloud:** AWS, Azure, Google cloud
@@ -31,6 +30,7 @@ This is the list of [dareCode's](https://www.darecode.com) favorite technologies
 * **Edge web servers:** Nginx, Apache
 * **Testing / QA:** SonarQube, Selenium, Postman/Newman
 * **Performance assessment:** JMeter, Gatling, Testcafe
+* **Project and Service Management Tools:** JIRA, Confluence, Azure Boards
 
 ## Languages and frameworks
 * Go
