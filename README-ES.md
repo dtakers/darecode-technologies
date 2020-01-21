@@ -1,17 +1,17 @@
 # Libro de cultura y tecnología de darecode
-Lista de tecnologías, procedimientos y frameworks de [dareCode](https://www.darecode.com). Tenemos experiencia o sencillamente apostamos por ellas cuando vemos un caso de uso.
+Lista de tecnologías, procedimientos y frameworks de [dareCode](https://www.darecode.com). Tenemos experiencia o sencillamente apostamos por ellas en los casos de uso adecuados.
 
-## Disciplines / methodologies
+## Disciplinas, frameworks metodológicos
 * **Agile frameworks:** SCRUM (Scaled: SAFE, Nexus), KANBAN
 * **Organization models:** DevOps
 * **Best practices:** ITIL
 
-## Technologies
+## Tecnologías
 * **Cloud:** AWS, Azure, Google cloud
-* **OS:** Linux ( RedHat, Ubuntu ), Windows, Android, iOS
 * **Process isolation:** Docker
-* **Container Orchestration:** Kubernetes, OpenShift, Docker Swarm
-* **Infrastructure / Configuration As Code:** Terraform, Ansible
+* **OS:** Linux ( RedHat, Ubuntu ), Windows, Android, iOS
+* **Orquestado de contenedores:** Kubernetes, OpenShift, Docker Swarm
+* **Configuración / Infraestructura como código:** Terraform, Ansible
 * **API Gateway:** Kong, Tyk, KrakenD
 * **SQL databases:** Oracle, MSSQL, MySQL, MariaDB, PostgreSQL
 * **NoSQL databases:** MongoDB, Cassandra, Elastic
@@ -32,7 +32,7 @@ Lista de tecnologías, procedimientos y frameworks de [dareCode](https://www.dar
 * **Performance assessment:** JMeter, Gatling, Testcafe
 * **Project and Service Management Tools:** JIRA, Confluence, Azure Boards
 
-## Languages and frameworks
+## Languages y frameworks de desarrollo
 * Go
 * .Net
 * Java (Spring)
