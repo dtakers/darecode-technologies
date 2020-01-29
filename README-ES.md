@@ -2,28 +2,28 @@
 Lista de tecnologías, procedimientos y frameworks de [dareCode](https://www.darecode.com). Tenemos experiencia o sencillamente apostamos por ellas en los casos de uso adecuados.
 
 ## Disciplinas, frameworks metodológicos
-* **Agile frameworks:** SCRUM (Scaled: SAFE, Nexus), KANBAN
-* **Organization models:** DevOps
-* **Best practices:** ITIL
+* **Marcos de trabajo ágiles:** SCRUM (Scaled: SAFE, Nexus), KANBAN
+* **Modelos de organización:** DevOps
+* **Mejores prácticas:** ITIL
 
 ## Tecnologías
-* **Cloud:** AWS, Azure, Google cloud
-* **Process isolation:** Docker
-* **OS:** Linux ( RedHat, Ubuntu ), Windows, Android, iOS
+* **Nube:** AWS, Azure, Google cloud
+* **Aislamiento de procesos:** Docker
+* **Sistemas operativos:** Linux ( RedHat, Ubuntu ), Windows, Android, iOS
 * **Orquestado de contenedores:** Kubernetes, OpenShift, Docker Swarm
 * **Configuración / Infraestructura como código:** Terraform, Ansible
 * **API Gateway:** Kong, Tyk, KrakenD
-* **SQL databases:** Oracle, MSSQL, MySQL, MariaDB, PostgreSQL
-* **NoSQL databases:** MongoDB, Cassandra, Elastic
-* **TimeSeries databases:** InfluxDB, Graphite
-* **Message queues:** Kafka, RabbitMQ, SQS
-* **Monitoring:** Prometheus, Nagios, Icinga, Grafana, Zabbix, SysDig
+* **Bases de datos SQL:** Oracle, MSSQL, MySQL, MariaDB, PostgreSQL
+* **Bases de datos NoSQL:** MongoDB, Cassandra, Elastic
+* **Bases de datos TimeSeries:** InfluxDB, Graphite
+* **Colas de mensajes:** Kafka, RabbitMQ, SQS
+* **Monitorización:** Prometheus, Nagios, Icinga, Grafana, Zabbix, SysDig
 * **APM:** Dynatrace, Newrelic, AppDynamics, Instana
-* **Continuous integration / deployment:** Jenkins, GitLab, Azure DevOps, Teamcity, Concourse
-* **Log processing:** Logstash, Kibana, ElasticSearch
+* **Integración / Despliegue continuo:** Jenkins, GitLab, Azure DevOps, Teamcity, Concourse
+* **Procesamiento de logs:** Logstash, Kibana, ElasticSearch
 * **Fast Data:** Apache Storm
 * **Cache:** Redis, Memcache, Ncache
-* **CVS:** Git (GitHub and BitBucket)
+* **Gestión de versiones:** Git (GitHub and BitBucket)
 * **Binary repositories:** Nexus, Artifactory
 * **Service mesh:** Istio, Linkerd
 * **Knowledge management / sharing:** Sharepoint, Confluence, Mediawiki
