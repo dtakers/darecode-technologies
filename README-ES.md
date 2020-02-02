@@ -24,13 +24,13 @@ Lista de tecnologías, procedimientos y frameworks de [dareCode](https://www.dar
 * **Fast Data:** Apache Storm
 * **Cache:** Redis, Memcache, Ncache
 * **Gestión de versiones:** Git (GitHub and BitBucket)
-* **Binary repositories:** Nexus, Artifactory
+* **Repositorios de artefactos:** Nexus, Artifactory
 * **Service mesh:** Istio, Linkerd
-* **Knowledge management / sharing:** Sharepoint, Confluence, Mediawiki
-* **Edge web servers:** Nginx, Apache
+* **Gestión del conocimiento compartido:** Sharepoint, Confluence, Mediawiki
+* **Servidores web:** Nginx, Apache
 * **Testing / QA:** SonarQube, Selenium, Postman/Newman
-* **Performance assessment:** JMeter, Gatling, Testcafe
-* **Project and Service Management Tools:** JIRA, Confluence, Azure Boards
+* **Pruebas de rendimiento:** JMeter, Gatling, Testcafe
+* **Herramientas de gestión de procesos y servicios:** JIRA, Confluence, Azure Boards
 
 ## Languages y frameworks de desarrollo
 * Go
