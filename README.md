@@ -32,6 +32,7 @@ This is the list of [dareCode](https://www.darecode.com) favorite technologies &
 * **Performance assessment:** JMeter, Gatling, Testcafe
 * **Project and Service Management Tools:** JIRA, Confluence, Azure Boards
 * **High Performance Computing ( HPC ) :** SLURM, SGE
+* **Web Development:** Wordpress, DotCMS 
 
 ## Languages and frameworks
 * Go
