@@ -37,4 +37,4 @@ This is the list of [dareCode](https://www.darecode.com) favorite technologies &
 * .Net
 * Java (Spring)
 * PHP (Symfony)
-* JavaScript / TypeScript ( Angular, React)
+* JavaScript / TypeScript ( Angular, React )
