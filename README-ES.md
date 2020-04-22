@@ -31,6 +31,8 @@ Lista de tecnologías, procedimientos y frameworks de [dareCode](https://www.dar
 * **Testing / QA:** SonarQube, Selenium, Postman/Newman
 * **Pruebas de rendimiento:** JMeter, Gatling, Testcafe
 * **Herramientas de gestión de procesos y servicios:** JIRA, Confluence, Azure Boards
+* **High Performance Computing ( HPC ) :** SLURM, SGE
+* **Desarrollo web:** Wordpress, DotCMS 
 
 ## Languages y frameworks de desarrollo
 * Go
