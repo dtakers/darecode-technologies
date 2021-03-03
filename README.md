@@ -17,7 +17,7 @@ This is the list of [dareCode](https://www.darecode.com) favorite technologies &
 * **NoSQL databases:** MongoDB, Cassandra, Elastic
 * **TimeSeries databases:** InfluxDB, Graphite
 * **Message queues:** Kafka, RabbitMQ, SQS
-* **Monitoring:** Prometheus, Nagios, Icinga, Grafana, Zabbix, SysDig
+* **Monitoring:** Prometheus, Nagios, Icinga, Grafana, Zabbix, Telegraf, SysDig
 * **APM:** Dynatrace, Newrelic, AppDynamics, Instana
 * **Continuous integration / deployment:** Jenkins, GitLab, Azure DevOps, Teamcity, Concourse
 * **Log processing:** Logstash, Kibana, ElasticSearch
