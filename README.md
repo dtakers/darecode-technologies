@@ -33,10 +33,11 @@ This is the list of [dareCode](https://www.darecode.com) favorite technologies &
 * **Project and Service Management Tools:** JIRA, Confluence, OpenProject, Azure Boards
 * **High Performance Computing ( HPC ) :** SLURM, SGE
 * **Web Development:** Wordpress, DotCMS 
+* **User management and authentication:** Keycloak, Cognito
 
 ## Languages and frameworks
 * Go
-* .Net
+* .Net & .Net Core
 * Java (Spring)
 * PHP (Symfony)
 * JavaScript / TypeScript ( Angular, React )
