@@ -19,6 +19,7 @@ This is the list of [dareCode](https://www.darecode.com) favorite technologies &
 * **Message queues:** Kafka, RabbitMQ, SQS
 * **Monitoring:** Prometheus, Nagios, Icinga, Grafana, Zabbix, Telegraf, SysDig
 * **APM:** Dynatrace, Newrelic, AppDynamics, Instana
+* **Tracing:** Jaeger
 * **Continuous integration / deployment:** Jenkins, GitLab, Azure DevOps, Teamcity, Concourse
 * **Log processing:** Logstash, Kibana, ElasticSearch
 * **Fast Data:** Apache Storm
